@@ -18,9 +18,6 @@ class Listview1Screen extends StatelessWidget {
                   trailing: Icon(Icons.arrow_forward_ios_outlined),
                   title: Text(e),
                 ),).toList(),
-
-          /*
-          */
         ],
       ),
     );
